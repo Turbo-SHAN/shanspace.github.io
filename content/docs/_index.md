@@ -1,6 +1,6 @@
 ---
 linkTitle: Documentation
-title: Introduction
+title: Introductionnnnn
 ---
 
 👋 Welcome to the demo of the Hugo Blox Documentation template!
